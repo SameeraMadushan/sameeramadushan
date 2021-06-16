@@ -1,16 +1,27 @@
+
+
+<!-- **sameeramadushan/sameeramadushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
 ### Hi there 👋
+I'm a full-stack developer specialized in Web, Progressive Web Apps, Mobile (iOS/Android) projects and scalable backend services.
 
-<!--
-**SameeraMadushan/sameeramadushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm experienced with javaScript libraries/frameworks like React, NextJS, React Native and Java. I'm a huge fan of React Native and love to develop mobile apps.
 
-Here are some ideas to get you started:
+* Core Languages : JavaScript, TypeScript, Java
+* Frontend : React, Angular, Gatsby, NextJS, HTML, CSS
+* Backend : Node JS, Spring Boot 
+* Mobile : React Native, Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+<img alig src="https://github-profile-trophy.vercel.app/?username=sameeramadushan&margin-w=8&column=4&theme=darkhub&no-frame=true" alt="github trophies" />
+</p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeramadushan&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sameeramadushan&show_icons=true&count_private=true&hide=issues,contribs&theme=prussian" alt="GitHub stats" /></p>
+
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sameeramadushan&theme=prussian" alt="usmcamgrimm" /></p>
+
+
