@@ -12,16 +12,19 @@ I'm experienced with javaScript libraries/frameworks like React, NextJS, React N
 * Backend : Node JS, Spring Boot 
 * Mobile : React Native, Flutter
 
-
+<!-- 
 <p align="center">
 <img alig src="https://github-profile-trophy.vercel.app/?username=sameeramadushan&margin-w=8&column=4&theme=darkhub&no-frame=true" alt="github trophies" />
 </p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeramadushan&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" /></p>
-
+ -->
+<p align="left" >
+  <img src="https://github-readme-stats.vercel.app/api?username=sameeramadushan&show_icons=true&count_private=true&hide=issues,contribs&theme=prussian" alt="GitHub stats" height="160" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeramadushan&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" height="160" />
+</p>
+<!-- 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sameeramadushan&show_icons=true&count_private=true&hide=issues,contribs&theme=prussian" alt="GitHub stats" /></p>
-
-
+ -->
+<!-- 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sameeramadushan&theme=prussian" alt="usmcamgrimm" /></p>
-
+ -->
 
