@@ -18,8 +18,8 @@ I'm experienced with javaScript libraries/frameworks like React, NextJS, React N
 </p>
  -->
 <p align="left" >
-  <img src="https://github-readme-stats.vercel.app/api?username=sameeramadushan&show_icons=true&count_private=true&hide=issues,contribs&theme=prussian" alt="GitHub stats" height="160" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeramadushan&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sameeramadushan&show_icons=true&count_private=true&hide=issues,contribs&theme=prussian" alt="GitHub stats" height="140" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeramadushan&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" height="140" />
 </p>
 <!-- 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sameeramadushan&show_icons=true&count_private=true&hide=issues,contribs&theme=prussian" alt="GitHub stats" /></p>
